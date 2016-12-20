@@ -1,0 +1,52 @@
+
+html, body, div, span, h1, h2, h3, h4, h5, h6, blockquote, pre, a, abbr, acronym, address, big, cite, code, img, ins, kbd, q, s, samp, small, strike, strong, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent; }
+
+body {
+  line-height: 1; }
+
+ol, ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+html {
+  background: url(../resources/stormy-weather-background.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+
+#container {
+  color: white;
+  font-family: Oxygen, sans-serif; }
+
+#title {
+  background: rgba(0, 0, 0, 0.6);
+  font-size: 4rem;
+  height: 150px;
+  padding-left: 5%;
+  padding-top: 3.5%; }
+
+#lyrics {
+  background: rgba(0, 0, 0, 0.5);
+  border: double white 4px;
+  float: left;
+  width: 25%;
+  height: 80%;
+  margin: 3.5% 4%;
+  padding: 2% 3%;
+  font-size: 1.5rem; }
+
+

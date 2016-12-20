@@ -1,0 +1,10 @@
+body {
+  background-size: cover;
+  min-height: 100%;
+  background-image: url(../resources/stormy-weather-background.jpg); }
+
+h1 {
+  font-size: 2rem;
+  color: white; }
+
+/*# sourceMappingURL=style.css.map */
